@@ -1,0 +1,25 @@
+{
+  "name": "flex-table",
+  "version": "1.0.0",
+  "description": "A flex-box implementation of table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azeemmirza/flex-table.git"
+  },
+  "keywords": [
+    "flex",
+    "flexbox",
+    "table",
+    "data-table"
+  ],
+  "author": "Azeem Mirza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azeemmirza/flex-table/issues"
+  },
+  "homepage": "https://github.com/azeemmirza/flex-table#readme"
+}
